@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346467171184",
+    "firebase_url": "https://pocurbanflutter.firebaseio.com",
+    "project_id": "pocurbanflutter",
+    "storage_bucket": "pocurbanflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346467171184:android:2bcf85c39f48a06c",
+        "android_client_info": {
+          "package_name": "br.com.livetouch.urban_test_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346467171184-qbl5ihim9m0akm9b8q87t36k7bn0aq92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARVv0zK8_BrAaUeJP2wsA7L47TJ8ZSu2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346467171184-qbl5ihim9m0akm9b8q87t36k7bn0aq92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

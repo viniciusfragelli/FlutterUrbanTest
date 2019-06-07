@@ -38,7 +38,6 @@ target 'Runner' do
   pod 'Firebase/Core'
   pod 'Firebase/Messaging'
   
-  pod 'UrbanAirship-iOS-AppExtensions'
 
   # Prepare symlinks folder. We use symlinks to avoid having Podfile.lock
   # referring to absolute paths on developers' machines.

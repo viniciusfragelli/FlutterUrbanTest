@@ -1,7 +1,6 @@
 import UIKit
 import Flutter
 import airship
-import AirshipAppExtensions
 import AirshipKit
 import Firebase
 

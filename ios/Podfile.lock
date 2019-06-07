@@ -67,15 +67,13 @@ PODS:
   - nanopb/decode (0.3.901)
   - nanopb/encode (0.3.901)
   - Protobuf (3.8.0)
-  - UrbanAirship-iOS-AppExtensions (11.0.0)
-  - UrbanAirship-iOS-SDK (11.0.0)
+  - UrbanAirship-iOS-SDK (10.2.2)
 
 DEPENDENCIES:
   - airship (from `.symlinks/plugins/airship/ios`)
   - Firebase/Core
   - Firebase/Messaging
   - Flutter (from `.symlinks/flutter/ios`)
-  - UrbanAirship-iOS-AppExtensions
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -89,7 +87,6 @@ SPEC REPOS:
     - GoogleUtilities
     - nanopb
     - Protobuf
-    - UrbanAirship-iOS-AppExtensions
     - UrbanAirship-iOS-SDK
 
 EXTERNAL SOURCES:
@@ -111,9 +108,8 @@ SPEC CHECKSUMS:
   GoogleUtilities: 996e0db07153674fd1b54b220fda3a3dc3547cba
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
   Protobuf: 3f617b9a6e73605565086864c9bc26b2bf2dd5a3
-  UrbanAirship-iOS-AppExtensions: 9f5966eaf33b8d08777addba6c5b5d27d8aacb66
-  UrbanAirship-iOS-SDK: a8d14c20a1b5af58784923b827dfd4d4145c0622
+  UrbanAirship-iOS-SDK: a5ff86dcdb2582590aec635299931278cfeb53c4
 
-PODFILE CHECKSUM: 81e37149485bbea18eb4908ebb320745642b3b5a
+PODFILE CHECKSUM: 56760095f005c0615afb25b3d97186aceed03626
 
 COCOAPODS: 1.7.0

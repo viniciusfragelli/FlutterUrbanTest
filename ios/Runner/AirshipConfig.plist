@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>developmentAppKey</key>
-	<string>BNiPV2UoQo-57IVRMeGN9Q</string>
+	<string>oCoE2fOuTUmKsgiooCEfPA</string>
 	<key>developmentAppSecret</key>
-	<string>CPzTd2FRRHOYZ6Iai3O0sg</string>
+	<string>clIBltoER8eWZmGlrd-0cQ</string>
 	<key>productionAppKey</key>
-	<string>BNiPV2UoQo-57IVRMeGN9Q</string>
+	<string>oCoE2fOuTUmKsgiooCEfPA</string>
 	<key>productionAppSecret</key>
-	<string>CPzTd2FRRHOYZ6Iai3O0sg</string>
+	<string>clIBltoER8eWZmGlrd-0cQ</string>
 	<key>useWKWebView</key>
 	<true/>
 </dict>
